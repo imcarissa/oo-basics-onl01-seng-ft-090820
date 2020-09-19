@@ -13,7 +13,7 @@ class Shoe
   end
   
   def color
-    @author
+    @color
   end
   
   def size
