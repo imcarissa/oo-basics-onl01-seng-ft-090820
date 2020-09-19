@@ -21,7 +21,7 @@ class Shoe
   end
   
   def size
-    @page_count
+    @size
   end
   
   def page_count
