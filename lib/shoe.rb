@@ -1,6 +1,6 @@
 class Shoe
   
-  def brand(brand)
+  def brand=(brand)
     @brand = brand
   end
   
