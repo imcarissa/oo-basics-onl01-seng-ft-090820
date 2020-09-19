@@ -12,7 +12,7 @@ class Shoe
     @color = color
   end
   
-  def author
+  def color
     @author
   end
   
