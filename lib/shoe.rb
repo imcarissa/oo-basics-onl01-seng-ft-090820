@@ -29,7 +29,7 @@ class Shoe
   end
   
   def material
-    @genre
+    @material
     
   def condition
     @conditon
