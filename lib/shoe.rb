@@ -9,7 +9,7 @@ class Shoe
   end
   
   def color=(color)
-    @author = color
+    @color = color
   end
   
   def author
