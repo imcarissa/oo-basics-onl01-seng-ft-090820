@@ -39,8 +39,6 @@ class Shoe
   def condition
     @condition
   end
-end
-  
   
   
 end
