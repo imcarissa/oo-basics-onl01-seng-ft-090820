@@ -38,6 +38,8 @@ class Shoe
   def condition
     @conditon
   end
+  
+  
 end
 
 shoe = Shoe.new("Adidas")
