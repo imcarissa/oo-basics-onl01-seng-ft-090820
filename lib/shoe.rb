@@ -16,6 +16,8 @@ class Shoe
     @color
   end
   
+  
+  
   def size
     @page_count
   end
