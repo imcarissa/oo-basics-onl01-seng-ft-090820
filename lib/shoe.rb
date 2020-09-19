@@ -24,19 +24,22 @@ class Shoe
     @size
   end
   
-  def material=(suede)
-    @material = material
+  def material=(material)
+    @material = suede
   end
   
   def material
     @material
-    
-  def condition=(tattered)
-  @condition = condition
   end
-    
+  
+  def condition=(condition)
+    @condition = tattered
+  end
+  
   def condition
-    @conditon
+    @condition
+  end
+  
   end
 end
   
