@@ -36,7 +36,7 @@ class Shoe
    # end
   
    # def condition=(condition)
-    @condition = condition
+   #  @condition = condition
   end
   
   def condition
