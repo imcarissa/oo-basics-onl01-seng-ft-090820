@@ -15,7 +15,7 @@ class Shoe
   #   @color = color
   # end
   
-  def color
+  # def color
     @color
   end
   
